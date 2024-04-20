@@ -1,1 +1,1 @@
-# This is the first lecture of React .
+# Python Projects
